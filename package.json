@@ -1,5 +1,5 @@
 {
-  "name": "express10",
+  "name": "site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "WEN HAO YUN",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
